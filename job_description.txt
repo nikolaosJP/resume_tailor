@@ -1,0 +1,22 @@
+In This Role, You’ll Get to
+
+    Design, code, experiment and implement models and algorithms to maximize customer experience, supply side value, business outcomes, and infrastructure readiness.
+    Mine a big data of hundreds of millions of customers and more than 600M daily user generated events, supplier and pricing data, and discover actionable insights to drive improvements and innovation.
+    Work with developers and a variety of business owners to deliver daily results with the best quality.
+    Research discover and harness new ideas that can make a difference
+
+What You’ll Need to Succeed
+
+    4+ years hands-on data science experience.
+    Excellent understanding of AI/ML/DL and Statistics, as well as coding proficiency using related open source libraries and frameworks.
+    Significant proficiency in SQL and languages like Python, PySpark and/or Scala.
+    Can lead, work independently as well as play a key role in a team.
+    Good communication and interpersonal skills for working in a multicultural work environment.
+
+It’s Great if You Have
+
+    PhD or MSc in Computer Science / Operations Research / Statistics or other quantitative fields
+    Experience in NLP, image processing and/or recommendation systems
+    Hands on experience in data engineering, working with big data framework like Spark/Hadoop
+    Experience in data science for e-commerce and/or OTA
+
