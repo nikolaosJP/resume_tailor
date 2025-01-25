@@ -4,59 +4,62 @@ Resume Tailor is a Python tool that uses LLMs (currently only compatible with Go
 
 ## Installation
 
-### Prerequisites
-- Python 3.8+
-- LaTeX distribution (e.g., [TeX Live](https://www.tug.org/texlive/))
-
 ### Steps
-1. Clone the repo:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/nikolaosJP/resume-tailor.git
    cd resume-tailor
    ```
-2. Create and activate a virtual environment:
+
+2. **Set up virtual environment**:
    ```bash
    python -m venv r_tailor
    source r_tailor/bin/activate 
    ```
-3. Install dependencies:
+
+3. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
+
+4. **Configuration**:
+   - Get a [Google Gemini API key](https://ai.google.dev/).
+   - Set the API key as an environment variable:
+     ```bash
+     # Temporary session (current terminal only)
+     export GEMINI_API_KEY="your_api_key_here"
+     
+     # Permanent setup (add to shell config)
+     echo 'export GEMINI_API_KEY="your_api_key_here"' >> ~/.bashrc
+     source ~/.bashrc
+     ```
+
+5. **File Preparation**:
+   - Insert your resume content to: `resume/maincontent.tex`
+   - Add target job description: `job_description.txt`
+   - [Optional] Customize LLM instructions: `instructions.txt`
 
 ---
 
 ## Usage
 
-1. **Prepare Your Files**:
-   - Edit your LaTeX resume: Modify `/resume/maincontent.tex`.
-   - Add the job description: Edit `/job_description.txt`.
-   - (Optional) Customize LLM instructions: Edit `/instructions.txt`.
-
-2. **Run the Tool**:
-   ```bash
-   python main.py
-   ```
-
-3. **Check Outputs**:
-   Generated files in `/output`:
-   - `tailored_resume.tex` (Tailored LaTeX resume)
-   - `tailored_resume.pdf` (Compiled PDF)
-   - `analysis.md` (Summary of changes)
+After completing installation steps, run:
+```bash
+python main.py
+```
 
 ---
 
-## Configuration
+## Outputs
 
-1. Get a [Google Gemini API key](https://ai.google.dev/).
-2. Set the API Key as an env varaible:
-   - Open your terminal and run:
-     ```bash
-     export GEMINI_API_KEY="your_api_key_here"
-     ```
-   - To make this permanent, add the line above to your `~/.bashrc` or `~/.zshrc` file:
-     ```bash
-     echo 'export GEMINI_API_KEY="your_api_key_here"' >> ~/.bashrc  # or ~/.zshrc
-     source ~/.bashrc  # Reload the configuration
-     ```
+Generated files in the `/output` directory:
+- `tailored_resume.tex`: Tailored LaTeX resume
+- `tailored_resume.pdf`: Compiled PDF (requires LaTeX installation)
+- `analysis.md`: Detailed summary of changes made
+
 ---
+
+## Notes
+- **LaTeX Requirement**: Install a LaTeX distribution (e.g., TeX Live) if you need PDF generation.
+- **Security**: Never commit your `.env` file or API key to version control.
+
