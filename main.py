@@ -34,7 +34,7 @@ FINAL_PDF_FILENAME = "tailored_resume.pdf"
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Tailor resume with Gemini LLM.")
-    parser.add_argument("--model", type=str, default="gemini-exp-1206", help="Gemini model name (e.g. gemini-2.0-flash-exp).")
+    parser.add_argument("--model", type=str, default="gemini-exp-1206", help="Gemini model name (e.g. gemini-2.0-flash-exp, gemini-2.0-pro-exp-02-05, gemini-2.0-flash-thinking-exp-01-21).")
     parser.add_argument("--output_pdf", type=str, default="True", help="Compile the PDF (True or False).")
     return parser.parse_args()
 

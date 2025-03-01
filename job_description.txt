@@ -1,22 +1,24 @@
-In This Role, You’ll Get to
+Our client is looking for an experienced Lead Data Scientist
 
-    Design, code, experiment and implement models and algorithms to maximize customer experience, supply side value, business outcomes, and infrastructure readiness.
-    Mine a big data of hundreds of millions of customers and more than 600M daily user generated events, supplier and pricing data, and discover actionable insights to drive improvements and innovation.
-    Work with developers and a variety of business owners to deliver daily results with the best quality.
-    Research discover and harness new ideas that can make a difference
 
-What You’ll Need to Succeed
+Responsibilities:
 
-    4+ years hands-on data science experience.
-    Excellent understanding of AI/ML/DL and Statistics, as well as coding proficiency using related open source libraries and frameworks.
-    Significant proficiency in SQL and languages like Python, PySpark and/or Scala.
-    Can lead, work independently as well as play a key role in a team.
-    Good communication and interpersonal skills for working in a multicultural work environment.
+    Development and training of transformer-based models for both text and images.
+    Architect and oversee the entire model lifecycle, from data preparation, model design, training, development and validation to model deployment and monitoring.
+    Collaborate with cross-functional teams, including data scientists, software engineers, and domain experts, to design and implement AI-driven solutions.
+    Stay current with the latest advancements in AI and machine learning, integrating new techniques and technologies as appropriate.
 
-It’s Great if You Have
 
-    PhD or MSc in Computer Science / Operations Research / Statistics or other quantitative fields
-    Experience in NLP, image processing and/or recommendation systems
-    Hands on experience in data engineering, working with big data framework like Spark/Hadoop
-    Experience in data science for e-commerce and/or OTA
+Requirements:
+
+    Bachelor’s or Master’s degree in Computer Science, Data Science, or a related field.
+    Strong expertise with large scale Neural Networks, Deep Learning and Reinforcement Learning techniques.
+    Practical exposure to GenAI projects and related frameworks (RAG apps, vector DBs, LangChain, LlamaIndex, agentic frameworks, ...)
+    Advanced knowledge of Python and machine learning frameworks (SciPy, Scikit-learn, TensorFlow, PyTorch, pyMC, pgmpy, ...)
+    Hands-on experience with one or more cloud computing platforms (Azure - preferred, AWS, GCP).
+    Understanding of the whole ML lifecycle and experience with MLOps/DataOps.
+    Experience with Probabilistic Graphical Modelling (Bayesian Networks, Markov Random Fields, Factor Graphs, ...)
+    Strong problem-solving skills and attention to detail.
+    Good communication skills, fluent English.
+
 

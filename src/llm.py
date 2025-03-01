@@ -18,7 +18,7 @@ def tailor_resume(resume_content, job_description, instructions, google_api_key=
     try:
         response = model.generate_content(prompt)
         full_text = response.text
-
+        print(full_text)
         if "===ANALYSIS===" not in full_text or "===LATEX===" not in full_text:
             print("Error: Response missing required markers (===ANALYSIS=== and ===LATEX===).")
             exit(1)

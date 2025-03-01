@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2025.1.11)  26 JAN 2025 00:46
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2025.1.11)  1 MAR 2025 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -779,82 +779,82 @@ LaTeX Info: Redefining \nameref on input line 12.
 
 (./tailored_resume.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 16.
+(Font)              scaled to size 10.00107pt on input line 12.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 16.
+(Font)              scaled to size 7.00075pt on input line 12.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 16.
+(Font)              scaled to size 5.00053pt on input line 12.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 16.
+(Font)              scaled to size 9.99893pt on input line 12.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 16.
+(Font)              scaled to size 6.99925pt on input line 12.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 16.
+(Font)              scaled to size 4.99947pt on input line 12.
 
-Underfull \hbox (badness 6125) in paragraph at lines 33--33
-[]\TU/OpenSansLight(1)/m/n/10 Designed high-frequency market-making algorithms,
- enhancing pricing precision and
- []
-
-
-Underfull \hbox (badness 2698) in paragraph at lines 33--33
+Underfull \hbox (badness 1655) in paragraph at lines 30--30
 []\TU/OpenSansLight(1)/m/n/10 Created and maintained fully automated trading sy
-stems, aligning with the need for
+stems that operate without human
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--35
+Underfull \hbox (badness 1803) in paragraph at lines 30--30
+[]\TU/OpenSansLight(1)/m/n/10 Oversaw the entire model lifecycle including data
+ preparation, model design, training,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--32
 
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 47--47
+Underfull \hbox (badness 1168) in paragraph at lines 46--46
 []\TU/OpenSansLight(1)/m/n/10 Developed a Python-based statistical analysis cou
 rse for students, emphasizing applied
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 58--58
+Underfull \hbox (badness 2635) in paragraph at lines 57--57
 []\TU/OpenSansLight(1)/m/n/10 Developed an XGBoost-based algorithm to forecast 
 the flexibility of residential loads,
  []
 
 
-Underfull \hbox (badness 1946) in paragraph at lines 70--70
+Underfull \hbox (badness 1946) in paragraph at lines 69--69
 \TU/OpenSansLight(1)/m/n/10 development strategies of Tokyo’s built environment
  and synthesized the results in a
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 82--82
+Underfull \hbox (badness 1675) in paragraph at lines 81--81
 []\TU/OpenSansLight(1)/m/n/10 Analyzed consumer behavior trends and designed de
 scriptive and predictive modeling
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--99
+Underfull \hbox (badness 10000) in paragraph at lines 35--96
 
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 105--124
+Underfull \hbox (badness 10000) in paragraph at lines 97--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--133
+Underfull \hbox (badness 10000) in paragraph at lines 117--125
 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 141--146
+Underfull \hbox (badness 10000) in alignment at lines 126--134
 []
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 141--29
+Underfull \hbox (badness 10000) in paragraph at lines 126--29
 
  []
 
@@ -865,7 +865,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  26903 strings out of 478190
  534677 string characters out of 5854827
- 957949 words of memory out of 5000000
+ 956951 words of memory out of 5000000
  47070 multiletter control sequences out of 15000+600000
  470783 words of font info for 89 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
